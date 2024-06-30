@@ -1,0 +1,6 @@
+# Ignore artifacts:
+package-lock.json
+build
+node_modules
+
+.next
